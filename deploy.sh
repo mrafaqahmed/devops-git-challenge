@@ -1,1 +1,2 @@
-cho "Starting deployment on Staging environment"
+echo "Starting deployment on Production"
+
