@@ -1,0 +1,1 @@
+cho "Starting deployment on Staging environment"
